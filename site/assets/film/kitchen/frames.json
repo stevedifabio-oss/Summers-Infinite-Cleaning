@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "count": 60,
+  "file": "frame_{i}.webp",
+  "pad": 3,
+  "start": 1,
+  "poster": "poster.webp",
+  "final": "final.webp",
+  "variants": [
+    {
+      "name": "p720",
+      "dir": "p720",
+      "width": 720,
+      "height": 1280,
+      "orientation": "portrait"
+    },
+    {
+      "name": "p900",
+      "dir": "p900",
+      "width": 900,
+      "height": 1600,
+      "orientation": "portrait"
+    },
+    {
+      "name": "p1080",
+      "dir": "p1080",
+      "width": 1080,
+      "height": 1920,
+      "orientation": "portrait"
+    }
+  ]
+}
