@@ -1,0 +1,26 @@
+# Old WordPress addresses (2021 site) to their new pages. Netlify handles http to https and the bare domain to www.
+/cleaning-services            /services/            301
+/cleaning-services/*          /services/            301
+/schedule-a-house-cleaning    /contact-us/          301
+/schedule-a-house-cleaning/*  /contact-us/          301
+/home                         /                     301
+/home/*                       /                     301
+/index.php                    /                     301
+/page/*                       /                     301
+/sample-page                  /                     301
+/sample-page/*                /                     301
+/2021/*                       /                     301
+/feed                         /                     301
+/feed/*                       /                     301
+/comments/feed/*              /                     301
+/sitemap_index.xml            /sitemap-index.xml    301
+/sitemap.xml                  /sitemap-index.xml    301
+/wp-sitemap.xml               /sitemap-index.xml    301
+/page-sitemap.xml             /sitemap-index.xml    301
+/post-sitemap.xml             /sitemap-index.xml    301
+/  p=83                       /services/            301!
+/  page_id=83                 /services/            301!
+/  p=74                       /contact-us/          301!
+/  page_id=74                 /contact-us/          301!
+/  p=8                        /                     301!
+/  page_id=8                  /                     301!
