@@ -3,7 +3,7 @@
 > The terms for the Summers Infinite Cleaning website and its cleans: 24 hours' notice to cancel or move, the late fee, payment and the guarantee.
 
 Page: https://www.summersinfinitecleaning.com/terms-and-conditions/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

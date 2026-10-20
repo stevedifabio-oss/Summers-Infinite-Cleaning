@@ -3,7 +3,7 @@
 > House cleaning in Paradise Valley, AZ for large homes: deep cleaning and recurring visits with eco-friendly products. 20% off your first clean.
 
 Page: https://www.summersinfinitecleaning.com/service-areas/paradise-valley-az/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

@@ -3,13 +3,13 @@
 > House, deep, recurring, move-out and commercial cleaning in Phoenix and 15 nearby towns. Insured, phone answered 24/7, and 20% off your first clean.
 
 Page: https://www.summersinfinitecleaning.com/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 
 ![A bright, spotless white kitchen with a marble island, brass pendant lights and pink peonies](https://www.summersinfinitecleaning.com/assets/film/kitchen-after-wide.webp)
 
-# House cleaning in Phoenix, AZ: A Cleaner Home A Happier You
+# House Cleaning in Phoenix, Arizona: A Cleaner Home A Happier You
 
 Insured, professional cleaning you can trust in Phoenix and 15 nearby towns.
 

@@ -3,7 +3,7 @@
 > House, deep, recurring and move-out cleaning from Summers Infinite Cleaning, task by task: what every clean includes, what is an add-on, what is not.
 
 Page: https://www.summersinfinitecleaning.com/services/whats-included/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

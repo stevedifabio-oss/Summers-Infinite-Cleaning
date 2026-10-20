@@ -3,7 +3,7 @@
 > House cleaning in Goodyear, AZ with 20% off your first clean: a deep clean for roomy homes, then recurring visits, plus move-in cleans. Free quote.
 
 Page: https://www.summersinfinitecleaning.com/service-areas/goodyear-az/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

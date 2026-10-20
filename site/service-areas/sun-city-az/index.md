@@ -3,7 +3,7 @@
 > House cleaning in Sun City, AZ on your schedule: recurring visits, deep cleans for hard water and cleans while you are away. 20% off your first clean.
 
 Page: https://www.summersinfinitecleaning.com/service-areas/sun-city-az/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

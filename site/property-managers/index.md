@@ -3,7 +3,7 @@
 > Rental turnover cleaning between tenants for Phoenix-area landlords and property managers: what the clean covers, how scheduling works and how to pay.
 
 Page: https://www.summersinfinitecleaning.com/property-managers/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

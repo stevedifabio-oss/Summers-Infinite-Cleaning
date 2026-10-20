@@ -3,7 +3,7 @@
 > House cleaning, deep cleaning and move cleans in Phoenix, Glendale, Peoria, Scottsdale, Sun City and 11 more nearby towns. 20% off your first clean.
 
 Page: https://www.summersinfinitecleaning.com/service-areas/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

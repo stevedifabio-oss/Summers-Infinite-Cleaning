@@ -3,7 +3,7 @@
 > Move-in cleaning for brand-new West Valley homes after the builder hands over the keys, done before the furniture comes. 20% off your first clean.
 
 Page: https://www.summersinfinitecleaning.com/services/move-in-move-out-cleaning/new-construction-homes/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

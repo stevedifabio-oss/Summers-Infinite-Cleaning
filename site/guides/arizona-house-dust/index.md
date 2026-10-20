@@ -3,7 +3,7 @@
 > Where Valley dust comes from, when monsoon dust storms hit the Phoenix area, and a top-to-bottom order for cleaning your home after one.
 
 Page: https://www.summersinfinitecleaning.com/guides/arizona-house-dust/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

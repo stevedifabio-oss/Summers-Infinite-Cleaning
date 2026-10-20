@@ -1,0 +1,12 @@
+
+  .nf { padding-bottom: clamp(4rem, 9vw, 7rem); }
+  .nf-actions { display: flex; flex-wrap: wrap; align-items: center; gap: .9rem 1.5rem; }
+  .nf-call { display: inline-flex; align-items: center; min-height: 44px; font-weight: 700; text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: .22em; }
+  .nf-links { margin-top: clamp(2.5rem, 5vw, 4rem); max-width: 44rem; }
+  .nf-title { font-weight: 700; color: var(--muted); margin: 0 0 .75rem; }
+  .nf-form-title { margin-bottom: clamp(1.5rem, 3vw, 2.5rem); }
+  .nf-links li { border-top: 1px solid var(--line); }
+  .nf-links li:last-child { border-bottom: 1px solid var(--line); }
+  .nf-links a { display: block; padding: 1rem 0; font-family: var(--font-display); font-weight: 700; font-size: clamp(1.2rem, 1.05rem + .7vw, 1.6rem); line-height: 1.2; text-decoration: none; transition: translate .25s ease; }
+  .nf-links a:hover, .nf-links a:focus-visible { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: .22em; translate: .4rem 0; }
+  @media (prefers-reduced-motion: reduce) { .nf-links a { transition: none; } .nf-links a:hover, .nf-links a:focus-visible { translate: none; } }

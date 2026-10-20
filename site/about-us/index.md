@@ -3,7 +3,7 @@
 > Meet Summer Harrington and the team at Summers Infinite Cleaning, formerly Clean Wishes: insured home, rental and business cleaning across the Phoenix metro.
 
 Page: https://www.summersinfinitecleaning.com/about-us/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

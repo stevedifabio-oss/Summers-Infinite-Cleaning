@@ -3,7 +3,7 @@
 > Which clean to book before listing photos and which before the buyer walkthrough when you sell a Phoenix-area home, plus what shows up in photos.
 
 Page: https://www.summersinfinitecleaning.com/guides/cleaning-before-selling-a-house/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 
