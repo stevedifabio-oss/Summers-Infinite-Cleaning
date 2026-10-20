@@ -3,7 +3,7 @@
 > What the Summers Infinite Cleaning quote form collects, where it goes, how long it is kept, what this site keeps in your browser, and how to ask about it.
 
 Page: https://www.summersinfinitecleaning.com/privacy-policy/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

@@ -3,7 +3,7 @@
 > What happens after you ask Summers Infinite Cleaning for a quote: how fast Summers replies, whether you need to be home, pets, payment and the guarantee.
 
 Page: https://www.summersinfinitecleaning.com/how-it-works/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

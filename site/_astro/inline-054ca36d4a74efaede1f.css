@@ -1,0 +1,7 @@
+
+  .look-cards {display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,19rem),1fr));gap:1rem;margin-top:2.5rem;}
+  .look-card {min-width:0;overflow:hidden;border-radius:var(--r-card);}
+  .look-card-copy {padding:1.5rem;}.look-card-copy h3 {font-size:clamp(1.7rem,2.5vw,2.4rem);line-height:1.05;}
+  .look-card-copy p {margin-top:1rem;max-width:48ch;}.look-card-copy a {text-decoration:underline;text-underline-offset:.2em;}
+  .look-card-price {font-weight:600;}.look-card-actions {display:flex;flex-wrap:wrap;gap:1rem;margin-top:1.5rem;}
+  .look-card :is(.look-card-image) {width:100%;height:15rem;object-fit:cover;}

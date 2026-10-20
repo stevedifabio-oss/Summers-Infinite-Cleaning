@@ -3,7 +3,7 @@
 > House cleaning in Phoenix and nearby towns: every room you use, with the inside of the oven and fridge included. 20% off your first clean.
 
 Page: https://www.summersinfinitecleaning.com/services/house-cleaning/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

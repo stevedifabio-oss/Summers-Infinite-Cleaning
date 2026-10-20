@@ -3,7 +3,7 @@
 > House cleaning in Litchfield Park, AZ for roomy homes: recurring visits, deep cleans for very hard Liberty water and move cleans. 20% off your first clean.
 
 Page: https://www.summersinfinitecleaning.com/service-areas/litchfield-park-az/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

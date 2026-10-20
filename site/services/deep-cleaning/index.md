@@ -3,7 +3,7 @@
 > Deep cleaning in Phoenix and nearby towns, down to hard-water spots on shower glass, faucets and toilets. Free flat-rate quote, 20% off your first clean.
 
 Page: https://www.summersinfinitecleaning.com/services/deep-cleaning/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

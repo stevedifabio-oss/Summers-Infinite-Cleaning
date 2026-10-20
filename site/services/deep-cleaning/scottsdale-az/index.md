@@ -3,7 +3,7 @@
 > Deep cleaning for Scottsdale homes, including part-year homes closed all summer: cleaned in the days before you arrive, with nobody home.
 
 Page: https://www.summersinfinitecleaning.com/services/deep-cleaning/scottsdale-az/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

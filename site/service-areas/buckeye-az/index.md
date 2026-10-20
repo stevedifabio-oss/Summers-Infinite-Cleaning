@@ -3,7 +3,7 @@
 > House cleaning in Buckeye, AZ with 20% off your first clean: move-in cleaning for new homes, recurring visits and deep cleans. Free quote.
 
 Page: https://www.summersinfinitecleaning.com/service-areas/buckeye-az/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

@@ -3,7 +3,7 @@
 > Answers on free flat-rate quotes, 20% off your first clean, paying by cash, check or Zelle, insurance and how the satisfaction guarantee works.
 
 Page: https://www.summersinfinitecleaning.com/frequently-asked-questions/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

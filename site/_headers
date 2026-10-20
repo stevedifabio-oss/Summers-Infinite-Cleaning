@@ -1,0 +1,189 @@
+# Netlify static hosting. The build appends per-page markdown noindex/canonical rules.
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: SAMEORIGIN
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()
+  Strict-Transport-Security: max-age=86400
+  Content-Security-Policy-Report-Only: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self'; media-src 'self' blob:; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'
+
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/*
+  Cache-Control: public, max-age=86400
+
+# sitekit:ai-files start (written by the build from site.json search.aiFiles; do not edit)
+/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/about-us/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/about-us/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/contact-us/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/contact-us/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/eco-friendly-cleaning/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/eco-friendly-cleaning/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/frequently-asked-questions/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/frequently-asked-questions/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/guides/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/guides/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/guides/arizona-house-dust/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/guides/arizona-house-dust/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/guides/arizona-move-out-cleaning-checklist/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/guides/arizona-move-out-cleaning-checklist/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/guides/cleaning-before-selling-a-house/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/guides/cleaning-before-selling-a-house/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/guides/office-cleaning-schedule/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/guides/office-cleaning-schedule/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/guides/phoenix-area-hard-water/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/guides/phoenix-area-hard-water/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/how-it-works/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/how-it-works/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/privacy-policy/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/privacy-policy/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/property-managers/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/property-managers/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-areas/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/service-areas/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-areas/anthem-az/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/service-areas/anthem-az/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-areas/avondale-az/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/service-areas/avondale-az/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-areas/buckeye-az/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/service-areas/buckeye-az/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-areas/el-mirage-az/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/service-areas/el-mirage-az/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-areas/glendale-az/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/service-areas/glendale-az/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-areas/goodyear-az/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/service-areas/goodyear-az/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-areas/litchfield-park-az/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/service-areas/litchfield-park-az/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-areas/paradise-valley-az/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/service-areas/paradise-valley-az/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-areas/peoria-az/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/service-areas/peoria-az/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-areas/phoenix-az/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/service-areas/phoenix-az/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-areas/scottsdale-az/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/service-areas/scottsdale-az/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-areas/sun-city-az/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/service-areas/sun-city-az/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-areas/sun-city-west-az/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/service-areas/sun-city-west-az/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-areas/surprise-az/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/service-areas/surprise-az/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-areas/tolleson-az/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/service-areas/tolleson-az/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/service-areas/youngtown-az/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/service-areas/youngtown-az/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/services/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/services/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/services/apartment-condo-cleaning/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/services/apartment-condo-cleaning/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/services/commercial-cleaning/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/services/commercial-cleaning/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/services/deep-cleaning/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/services/deep-cleaning/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/services/deep-cleaning/scottsdale-az/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/services/deep-cleaning/scottsdale-az/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/services/house-cleaning/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/services/house-cleaning/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/services/move-in-move-out-cleaning/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/services/move-in-move-out-cleaning/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/services/move-in-move-out-cleaning/new-construction-homes/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/services/move-in-move-out-cleaning/new-construction-homes/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/services/recurring-house-cleaning/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/services/recurring-house-cleaning/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/services/vacation-rental-cleaning/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/services/vacation-rental-cleaning/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/services/whats-included/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/services/whats-included/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+/terms-and-conditions/index.md
+  X-Robots-Tag: noindex
+  Link: <https://www.summersinfinitecleaning.com/terms-and-conditions/>; rel="canonical"
+  Content-Type: text/markdown; charset=utf-8
+# sitekit:ai-files end

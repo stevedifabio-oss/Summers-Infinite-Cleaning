@@ -3,7 +3,7 @@
 > A room-by-room move-out cleaning checklist for Arizona renters, and when A.R.S. 33-1321 says your itemized deposit list is due. A summary, not legal advice.
 
 Page: https://www.summersinfinitecleaning.com/guides/arizona-move-out-cleaning-checklist/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

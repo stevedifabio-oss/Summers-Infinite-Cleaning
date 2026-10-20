@@ -3,7 +3,7 @@
 > Recurring house cleaning weekly, every two weeks or monthly for Phoenix metro homes, for less per visit than a one-time clean. 20% off your first clean.
 
 Page: https://www.summersinfinitecleaning.com/services/recurring-house-cleaning/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

@@ -3,7 +3,7 @@
 > Phoenix house cleaning from a locally owned company: hard-water bathrooms, rentals between tenants and move-outs. 20% off your first clean. Free quote.
 
 Page: https://www.summersinfinitecleaning.com/service-areas/phoenix-az/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

@@ -3,7 +3,7 @@
 > House cleaning in Anthem, AZ for bigger homes and very hard water: whole-house cleans, deep cleans and recurring visits. 20% off your first clean.
 
 Page: https://www.summersinfinitecleaning.com/service-areas/anthem-az/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

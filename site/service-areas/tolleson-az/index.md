@@ -3,7 +3,7 @@
 > Tolleson, AZ house cleaning for renters, owners and landlords: rush move-outs, recurring visits, deep cleans and office cleaning. 20% off your first clean.
 
 Page: https://www.summersinfinitecleaning.com/service-areas/tolleson-az/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

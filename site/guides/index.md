@@ -3,7 +3,7 @@
 > Guides from Summers Infinite Cleaning: Arizona move-out deposits, hard water by Valley city, house dust after storms, selling a home and office schedules.
 
 Page: https://www.summersinfinitecleaning.com/guides/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

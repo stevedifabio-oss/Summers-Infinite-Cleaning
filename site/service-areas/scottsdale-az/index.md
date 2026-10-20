@@ -3,7 +3,7 @@
 > House cleaning in Scottsdale, AZ for year-round and part-year homes, plus commercial cleaning for shops and offices. 20% off your first clean.
 
 Page: https://www.summersinfinitecleaning.com/service-areas/scottsdale-az/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

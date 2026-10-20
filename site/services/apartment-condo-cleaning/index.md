@@ -3,7 +3,7 @@
 > Apartment, condo and townhome cleaning in Phoenix and nearby towns: regular cleans for the unit you live in, and move-out cleans before the keys go back.
 
 Page: https://www.summersinfinitecleaning.com/services/apartment-condo-cleaning/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

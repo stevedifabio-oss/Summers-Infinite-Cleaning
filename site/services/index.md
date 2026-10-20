@@ -3,7 +3,7 @@
 > House, deep, recurring, move-in and move-out, and commercial cleaning across the Phoenix metro. Flat-rate quotes, and 20% off your first clean.
 
 Page: https://www.summersinfinitecleaning.com/services/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

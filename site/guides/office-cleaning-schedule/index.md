@@ -3,7 +3,7 @@
 > How often an office or shop needs cleaning, what OSHA, the CDC and the carpet industry say about daily to yearly tasks, and how a Summers quote works.
 
 Page: https://www.summersinfinitecleaning.com/guides/office-cleaning-schedule/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

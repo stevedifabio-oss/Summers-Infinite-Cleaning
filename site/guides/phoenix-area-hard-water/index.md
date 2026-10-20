@@ -3,7 +3,7 @@
 > How hard the tap water is in Phoenix, Glendale, Peoria, Scottsdale and 12 more Valley towns, from each utility report, and how to clean the white spots.
 
 Page: https://www.summersinfinitecleaning.com/guides/phoenix-area-hard-water/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

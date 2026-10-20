@@ -3,7 +3,7 @@
 > House cleaning in Glendale, AZ for established homes and new builds: deep cleaning, recurring visits and move-in cleans. 20% off your first clean.
 
 Page: https://www.summersinfinitecleaning.com/service-areas/glendale-az/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 

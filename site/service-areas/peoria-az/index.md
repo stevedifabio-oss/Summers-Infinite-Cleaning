@@ -3,7 +3,7 @@
 > House cleaning in Peoria, AZ for family homes and new builds: recurring, deep and move-in cleaning. 20% off your first clean. Free quote.
 
 Page: https://www.summersinfinitecleaning.com/service-areas/peoria-az/  
-Last changed: 2026-10-19
+Last changed: 2026-10-20
 
 ---
 
