@@ -20,11 +20,12 @@
 /feed                         /                     301
 /feed/*                       /                     301
 /comments/feed/*              /                     301
-/sitemap_index.xml            /sitemap-index.xml    301
-/sitemap.xml                  /sitemap-index.xml    301
-/wp-sitemap.xml               /sitemap-index.xml    301
-/page-sitemap.xml             /sitemap-index.xml    301
-/post-sitemap.xml             /sitemap-index.xml    301
+/sitemap-index.xml            /sitemap.xml          301
+/sitemap-0.xml                /sitemap.xml          301
+/sitemap_index.xml            /sitemap.xml          301
+/wp-sitemap.xml               /sitemap.xml          301
+/page-sitemap.xml             /sitemap.xml          301
+/post-sitemap.xml             /sitemap.xml          301
 
 # The private questionnaire never ships, even if a stale URL is requested.
 /questions                    /404.html             404!

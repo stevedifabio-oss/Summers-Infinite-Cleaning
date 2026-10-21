@@ -34,4 +34,4 @@ Allow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://www.summersinfinitecleaning.com/sitemap-index.xml
+Sitemap: https://www.summersinfinitecleaning.com/sitemap.xml
