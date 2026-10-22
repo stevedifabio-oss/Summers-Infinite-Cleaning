@@ -64,11 +64,11 @@ Let us know the street, the size of the house and whether you want a deep clean,
 
 ## Glendale's neighbors
 
-- [Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)
-- [Peoria](https://www.summersinfinitecleaning.com/service-areas/peoria-az/)
-- [El Mirage](https://www.summersinfinitecleaning.com/service-areas/el-mirage-az/)
-- [Youngtown](https://www.summersinfinitecleaning.com/service-areas/youngtown-az/)
-- [All service areas](https://www.summersinfinitecleaning.com/service-areas/)
+- **[Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)**
+- **[Peoria](https://www.summersinfinitecleaning.com/service-areas/peoria-az/)**
+- **[El Mirage](https://www.summersinfinitecleaning.com/service-areas/el-mirage-az/)**
+- **[Youngtown](https://www.summersinfinitecleaning.com/service-areas/youngtown-az/)**
+- **[All service areas](https://www.summersinfinitecleaning.com/service-areas/)**
 
 ## Cleaning in Glendale.
 

@@ -97,10 +97,10 @@ Recurring cleaning starts with a deep clean, and every visit after that costs le
 
 ## Read next
 
-- [Deep Cleaning](https://www.summersinfinitecleaning.com/services/deep-cleaning/)
-- [Why Arizona homes get dusty](https://www.summersinfinitecleaning.com/guides/arizona-house-dust/)
-- [Cleaning before you sell](https://www.summersinfinitecleaning.com/guides/cleaning-before-selling-a-house/)
-- [All guides](https://www.summersinfinitecleaning.com/guides/)
+- **[Deep Cleaning](https://www.summersinfinitecleaning.com/services/deep-cleaning/)**
+- **[Why Arizona homes get dusty](https://www.summersinfinitecleaning.com/guides/arizona-house-dust/)**
+- **[Cleaning before you sell](https://www.summersinfinitecleaning.com/guides/cleaning-before-selling-a-house/)**
+- **[All guides](https://www.summersinfinitecleaning.com/guides/)**
 
 ## Why Summers
 

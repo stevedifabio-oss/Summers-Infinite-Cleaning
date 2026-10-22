@@ -84,12 +84,12 @@ Yes. Summers cleans apartments, condos and townhomes as well as houses, which ma
 
 ## Scottsdale and nearby
 
-- [Scottsdale](https://www.summersinfinitecleaning.com/service-areas/scottsdale-az/)
-- [Paradise Valley](https://www.summersinfinitecleaning.com/service-areas/paradise-valley-az/)
-- [Deep Cleaning](https://www.summersinfinitecleaning.com/services/deep-cleaning/)
-- [Recurring House Cleaning](https://www.summersinfinitecleaning.com/services/recurring-house-cleaning/)
-- [Vacation rental cleaning](https://www.summersinfinitecleaning.com/services/vacation-rental-cleaning/)
-- [Apartment and condo cleaning](https://www.summersinfinitecleaning.com/services/apartment-condo-cleaning/)
+- **[Scottsdale](https://www.summersinfinitecleaning.com/service-areas/scottsdale-az/)**
+- **[Paradise Valley](https://www.summersinfinitecleaning.com/service-areas/paradise-valley-az/)**
+- **[Deep Cleaning](https://www.summersinfinitecleaning.com/services/deep-cleaning/)**
+- **[Recurring House Cleaning](https://www.summersinfinitecleaning.com/services/recurring-house-cleaning/)**
+- **[Vacation rental cleaning](https://www.summersinfinitecleaning.com/services/vacation-rental-cleaning/)**
+- **[Apartment and condo cleaning](https://www.summersinfinitecleaning.com/services/apartment-condo-cleaning/)**
 
 ## Why Summers
 

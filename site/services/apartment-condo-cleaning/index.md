@@ -73,13 +73,13 @@ Yes. Choose Move-In / Move-Out Cleaning in the quote form and give the closing d
 
 ## More for renters and owners
 
-- [Move-In / Move-Out Cleaning](https://www.summersinfinitecleaning.com/services/move-in-move-out-cleaning/)
-- [House Cleaning](https://www.summersinfinitecleaning.com/services/house-cleaning/)
-- [Recurring House Cleaning](https://www.summersinfinitecleaning.com/services/recurring-house-cleaning/)
-- [New construction move-in](https://www.summersinfinitecleaning.com/services/move-in-move-out-cleaning/new-construction-homes/)
-- [Rental turnovers for landlords](https://www.summersinfinitecleaning.com/property-managers/)
-- [Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)
-- [All service areas](https://www.summersinfinitecleaning.com/service-areas/)
+- **[Move-In / Move-Out Cleaning](https://www.summersinfinitecleaning.com/services/move-in-move-out-cleaning/)**
+- **[House Cleaning](https://www.summersinfinitecleaning.com/services/house-cleaning/)**
+- **[Recurring House Cleaning](https://www.summersinfinitecleaning.com/services/recurring-house-cleaning/)**
+- **[New construction move-in](https://www.summersinfinitecleaning.com/services/move-in-move-out-cleaning/new-construction-homes/)**
+- **[Rental turnovers for landlords](https://www.summersinfinitecleaning.com/property-managers/)**
+- **[Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)**
+- **[All service areas](https://www.summersinfinitecleaning.com/service-areas/)**
 
 ## Why Summers
 

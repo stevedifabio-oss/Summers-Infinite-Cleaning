@@ -63,10 +63,10 @@ Yes. Nobody needs to be home while Summers cleans, so a listed house can be clea
 
 ## Selling soon? Read next
 
-- [Deep Cleaning](https://www.summersinfinitecleaning.com/services/deep-cleaning/)
-- [Move-In / Move-Out Cleaning](https://www.summersinfinitecleaning.com/services/move-in-move-out-cleaning/)
-- [Arizona move-out checklist](https://www.summersinfinitecleaning.com/guides/arizona-move-out-cleaning-checklist/)
-- [All guides](https://www.summersinfinitecleaning.com/guides/)
+- **[Deep Cleaning](https://www.summersinfinitecleaning.com/services/deep-cleaning/)**
+- **[Move-In / Move-Out Cleaning](https://www.summersinfinitecleaning.com/services/move-in-move-out-cleaning/)**
+- **[Arizona move-out checklist](https://www.summersinfinitecleaning.com/guides/arizona-move-out-cleaning-checklist/)**
+- **[All guides](https://www.summersinfinitecleaning.com/guides/)**
 
 ## Why Summers
 

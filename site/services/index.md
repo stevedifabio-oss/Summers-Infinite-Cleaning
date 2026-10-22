@@ -44,29 +44,29 @@ Pick the closest service in the quote form, then use the details box to describe
 
 ## Cleaning in your town
 
-- [Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)
-- [Glendale](https://www.summersinfinitecleaning.com/service-areas/glendale-az/)
-- [Peoria](https://www.summersinfinitecleaning.com/service-areas/peoria-az/)
-- [Surprise](https://www.summersinfinitecleaning.com/service-areas/surprise-az/)
-- [Buckeye](https://www.summersinfinitecleaning.com/service-areas/buckeye-az/)
-- [Avondale](https://www.summersinfinitecleaning.com/service-areas/avondale-az/)
-- [Goodyear](https://www.summersinfinitecleaning.com/service-areas/goodyear-az/)
-- [El Mirage](https://www.summersinfinitecleaning.com/service-areas/el-mirage-az/)
-- [Scottsdale](https://www.summersinfinitecleaning.com/service-areas/scottsdale-az/)
-- [Paradise Valley](https://www.summersinfinitecleaning.com/service-areas/paradise-valley-az/)
-- [Litchfield Park](https://www.summersinfinitecleaning.com/service-areas/litchfield-park-az/)
-- [Tolleson](https://www.summersinfinitecleaning.com/service-areas/tolleson-az/)
-- [Youngtown](https://www.summersinfinitecleaning.com/service-areas/youngtown-az/)
-- [Sun City](https://www.summersinfinitecleaning.com/service-areas/sun-city-az/)
-- [Sun City West](https://www.summersinfinitecleaning.com/service-areas/sun-city-west-az/)
-- [Anthem](https://www.summersinfinitecleaning.com/service-areas/anthem-az/)
+- **[Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)**
+- **[Glendale](https://www.summersinfinitecleaning.com/service-areas/glendale-az/)**
+- **[Peoria](https://www.summersinfinitecleaning.com/service-areas/peoria-az/)**
+- **[Surprise](https://www.summersinfinitecleaning.com/service-areas/surprise-az/)**
+- **[Buckeye](https://www.summersinfinitecleaning.com/service-areas/buckeye-az/)**
+- **[Avondale](https://www.summersinfinitecleaning.com/service-areas/avondale-az/)**
+- **[Goodyear](https://www.summersinfinitecleaning.com/service-areas/goodyear-az/)**
+- **[El Mirage](https://www.summersinfinitecleaning.com/service-areas/el-mirage-az/)**
+- **[Scottsdale](https://www.summersinfinitecleaning.com/service-areas/scottsdale-az/)**
+- **[Paradise Valley](https://www.summersinfinitecleaning.com/service-areas/paradise-valley-az/)**
+- **[Litchfield Park](https://www.summersinfinitecleaning.com/service-areas/litchfield-park-az/)**
+- **[Tolleson](https://www.summersinfinitecleaning.com/service-areas/tolleson-az/)**
+- **[Youngtown](https://www.summersinfinitecleaning.com/service-areas/youngtown-az/)**
+- **[Sun City](https://www.summersinfinitecleaning.com/service-areas/sun-city-az/)**
+- **[Sun City West](https://www.summersinfinitecleaning.com/service-areas/sun-city-west-az/)**
+- **[Anthem](https://www.summersinfinitecleaning.com/service-areas/anthem-az/)**
 
 ## Before you book
 
-- [What each clean includes](https://www.summersinfinitecleaning.com/services/whats-included/)
-- [How a visit works](https://www.summersinfinitecleaning.com/how-it-works/)
-- [Cleaning before you sell](https://www.summersinfinitecleaning.com/guides/cleaning-before-selling-a-house/)
-- [All cleaning guides](https://www.summersinfinitecleaning.com/guides/)
+- **[What each clean includes](https://www.summersinfinitecleaning.com/services/whats-included/)**
+- **[How a visit works](https://www.summersinfinitecleaning.com/how-it-works/)**
+- **[Cleaning before you sell](https://www.summersinfinitecleaning.com/guides/cleaning-before-selling-a-house/)**
+- **[All cleaning guides](https://www.summersinfinitecleaning.com/guides/)**
 
 ## Questions About Choosing a Clean.
 

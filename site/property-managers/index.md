@@ -71,13 +71,13 @@ Yes. List each address with its beds and baths and its move-out date in the deta
 
 ## For rental owners
 
-- [Move-In / Move-Out Cleaning](https://www.summersinfinitecleaning.com/services/move-in-move-out-cleaning/)
-- [Apartment and condo cleaning](https://www.summersinfinitecleaning.com/services/apartment-condo-cleaning/)
-- [Vacation rental cleaning](https://www.summersinfinitecleaning.com/services/vacation-rental-cleaning/)
-- [Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)
-- [Glendale](https://www.summersinfinitecleaning.com/service-areas/glendale-az/)
-- [Avondale](https://www.summersinfinitecleaning.com/service-areas/avondale-az/)
-- [All service areas](https://www.summersinfinitecleaning.com/service-areas/)
+- **[Move-In / Move-Out Cleaning](https://www.summersinfinitecleaning.com/services/move-in-move-out-cleaning/)**
+- **[Apartment and condo cleaning](https://www.summersinfinitecleaning.com/services/apartment-condo-cleaning/)**
+- **[Vacation rental cleaning](https://www.summersinfinitecleaning.com/services/vacation-rental-cleaning/)**
+- **[Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)**
+- **[Glendale](https://www.summersinfinitecleaning.com/service-areas/glendale-az/)**
+- **[Avondale](https://www.summersinfinitecleaning.com/service-areas/avondale-az/)**
+- **[All service areas](https://www.summersinfinitecleaning.com/service-areas/)**
 
 ## Why Summers
 

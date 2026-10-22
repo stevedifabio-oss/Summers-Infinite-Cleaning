@@ -68,11 +68,11 @@ Send the street, the number of bedrooms and baths, and how often you want a visi
 
 ## Near Litchfield Park
 
-- [Goodyear](https://www.summersinfinitecleaning.com/service-areas/goodyear-az/)
-- [Avondale](https://www.summersinfinitecleaning.com/service-areas/avondale-az/)
-- [Tolleson](https://www.summersinfinitecleaning.com/service-areas/tolleson-az/)
-- [Glendale](https://www.summersinfinitecleaning.com/service-areas/glendale-az/)
-- [All service areas](https://www.summersinfinitecleaning.com/service-areas/)
+- **[Goodyear](https://www.summersinfinitecleaning.com/service-areas/goodyear-az/)**
+- **[Avondale](https://www.summersinfinitecleaning.com/service-areas/avondale-az/)**
+- **[Tolleson](https://www.summersinfinitecleaning.com/service-areas/tolleson-az/)**
+- **[Glendale](https://www.summersinfinitecleaning.com/service-areas/glendale-az/)**
+- **[All service areas](https://www.summersinfinitecleaning.com/service-areas/)**
 
 ## Cleaning in Litchfield Park.
 

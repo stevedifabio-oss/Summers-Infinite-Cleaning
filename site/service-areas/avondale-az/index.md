@@ -68,12 +68,12 @@ Whether you rent, own or manage the home, send the address and the date that mat
 
 ## Next to Avondale
 
-- [Goodyear](https://www.summersinfinitecleaning.com/service-areas/goodyear-az/)
-- [Tolleson](https://www.summersinfinitecleaning.com/service-areas/tolleson-az/)
-- [Litchfield Park](https://www.summersinfinitecleaning.com/service-areas/litchfield-park-az/)
-- [Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)
-- [Buckeye](https://www.summersinfinitecleaning.com/service-areas/buckeye-az/)
-- [All service areas](https://www.summersinfinitecleaning.com/service-areas/)
+- **[Goodyear](https://www.summersinfinitecleaning.com/service-areas/goodyear-az/)**
+- **[Tolleson](https://www.summersinfinitecleaning.com/service-areas/tolleson-az/)**
+- **[Litchfield Park](https://www.summersinfinitecleaning.com/service-areas/litchfield-park-az/)**
+- **[Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)**
+- **[Buckeye](https://www.summersinfinitecleaning.com/service-areas/buckeye-az/)**
+- **[All service areas](https://www.summersinfinitecleaning.com/service-areas/)**
 
 ## Cleaning in Avondale.
 

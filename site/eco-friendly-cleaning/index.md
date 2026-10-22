@@ -57,13 +57,13 @@ No. Only the products change. You still get every task on the Summers list, from
 
 ## Pick your clean
 
-- [What each clean includes](https://www.summersinfinitecleaning.com/services/whats-included/)
-- [How it works](https://www.summersinfinitecleaning.com/how-it-works/)
-- [House Cleaning](https://www.summersinfinitecleaning.com/services/house-cleaning/)
-- [Deep Cleaning](https://www.summersinfinitecleaning.com/services/deep-cleaning/)
-- [Recurring House Cleaning](https://www.summersinfinitecleaning.com/services/recurring-house-cleaning/)
-- [Move-In / Move-Out Cleaning](https://www.summersinfinitecleaning.com/services/move-in-move-out-cleaning/)
-- [Commercial Cleaning](https://www.summersinfinitecleaning.com/services/commercial-cleaning/)
+- **[What each clean includes](https://www.summersinfinitecleaning.com/services/whats-included/)**
+- **[How it works](https://www.summersinfinitecleaning.com/how-it-works/)**
+- **[House Cleaning](https://www.summersinfinitecleaning.com/services/house-cleaning/)**
+- **[Deep Cleaning](https://www.summersinfinitecleaning.com/services/deep-cleaning/)**
+- **[Recurring House Cleaning](https://www.summersinfinitecleaning.com/services/recurring-house-cleaning/)**
+- **[Move-In / Move-Out Cleaning](https://www.summersinfinitecleaning.com/services/move-in-move-out-cleaning/)**
+- **[Commercial Cleaning](https://www.summersinfinitecleaning.com/services/commercial-cleaning/)**
 
 ## Why Summers
 

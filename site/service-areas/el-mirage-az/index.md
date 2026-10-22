@@ -64,11 +64,11 @@ Say how many people live in the house and what would help most this month. Satur
 
 ## Close to El Mirage
 
-- [Surprise](https://www.summersinfinitecleaning.com/service-areas/surprise-az/)
-- [Youngtown](https://www.summersinfinitecleaning.com/service-areas/youngtown-az/)
-- [Sun City](https://www.summersinfinitecleaning.com/service-areas/sun-city-az/)
-- [Peoria](https://www.summersinfinitecleaning.com/service-areas/peoria-az/)
-- [All service areas](https://www.summersinfinitecleaning.com/service-areas/)
+- **[Surprise](https://www.summersinfinitecleaning.com/service-areas/surprise-az/)**
+- **[Youngtown](https://www.summersinfinitecleaning.com/service-areas/youngtown-az/)**
+- **[Sun City](https://www.summersinfinitecleaning.com/service-areas/sun-city-az/)**
+- **[Peoria](https://www.summersinfinitecleaning.com/service-areas/peoria-az/)**
+- **[All service areas](https://www.summersinfinitecleaning.com/service-areas/)**
 
 ## Cleaning in El Mirage.
 

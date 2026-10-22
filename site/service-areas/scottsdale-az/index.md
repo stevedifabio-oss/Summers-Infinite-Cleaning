@@ -64,9 +64,9 @@ Tell us about the home or the business and the date you have in mind, and Summer
 
 ## Next door to Scottsdale
 
-- [Paradise Valley](https://www.summersinfinitecleaning.com/service-areas/paradise-valley-az/)
-- [Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)
-- [All service areas](https://www.summersinfinitecleaning.com/service-areas/)
+- **[Paradise Valley](https://www.summersinfinitecleaning.com/service-areas/paradise-valley-az/)**
+- **[Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)**
+- **[All service areas](https://www.summersinfinitecleaning.com/service-areas/)**
 
 ## Cleaning in Scottsdale.
 

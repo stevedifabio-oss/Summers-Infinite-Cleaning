@@ -98,12 +98,12 @@ If a landlord does not follow the itemizing rule, the tenant may recover the mon
 
 ## Moving soon? Read next
 
-- [Move-In / Move-Out Cleaning](https://www.summersinfinitecleaning.com/services/move-in-move-out-cleaning/)
-- [Cleaning before you sell](https://www.summersinfinitecleaning.com/guides/cleaning-before-selling-a-house/)
-- [Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)
-- [Glendale](https://www.summersinfinitecleaning.com/service-areas/glendale-az/)
-- [Avondale](https://www.summersinfinitecleaning.com/service-areas/avondale-az/)
-- [All guides](https://www.summersinfinitecleaning.com/guides/)
+- **[Move-In / Move-Out Cleaning](https://www.summersinfinitecleaning.com/services/move-in-move-out-cleaning/)**
+- **[Cleaning before you sell](https://www.summersinfinitecleaning.com/guides/cleaning-before-selling-a-house/)**
+- **[Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)**
+- **[Glendale](https://www.summersinfinitecleaning.com/service-areas/glendale-az/)**
+- **[Avondale](https://www.summersinfinitecleaning.com/service-areas/avondale-az/)**
+- **[All guides](https://www.summersinfinitecleaning.com/guides/)**
 
 ## Why Summers
 

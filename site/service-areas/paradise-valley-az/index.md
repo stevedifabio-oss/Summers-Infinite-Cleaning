@@ -64,9 +64,9 @@ Give us the address, a rough count of rooms and the clean you are after. Summers
 
 ## Around Paradise Valley
 
-- [Scottsdale](https://www.summersinfinitecleaning.com/service-areas/scottsdale-az/)
-- [Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)
-- [All service areas](https://www.summersinfinitecleaning.com/service-areas/)
+- **[Scottsdale](https://www.summersinfinitecleaning.com/service-areas/scottsdale-az/)**
+- **[Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)**
+- **[All service areas](https://www.summersinfinitecleaning.com/service-areas/)**
 
 ## Cleaning in Paradise Valley.
 

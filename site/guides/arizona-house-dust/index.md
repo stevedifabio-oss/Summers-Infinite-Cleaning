@@ -93,10 +93,10 @@ Yes. Ask for a deep clean, a one-time clean that goes further than a regular vis
 
 ## Read next
 
-- [Recurring House Cleaning](https://www.summersinfinitecleaning.com/services/recurring-house-cleaning/)
-- [Deep Cleaning](https://www.summersinfinitecleaning.com/services/deep-cleaning/)
-- [Hard water by city](https://www.summersinfinitecleaning.com/guides/phoenix-area-hard-water/)
-- [All guides](https://www.summersinfinitecleaning.com/guides/)
+- **[Recurring House Cleaning](https://www.summersinfinitecleaning.com/services/recurring-house-cleaning/)**
+- **[Deep Cleaning](https://www.summersinfinitecleaning.com/services/deep-cleaning/)**
+- **[Hard water by city](https://www.summersinfinitecleaning.com/guides/phoenix-area-hard-water/)**
+- **[All guides](https://www.summersinfinitecleaning.com/guides/)**
 
 ## Why Summers
 

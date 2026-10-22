@@ -142,11 +142,11 @@ Not as standard. Spot-cleaning walls and cleaning inside the windows are add-ons
 
 ## Before you book
 
-- [How it works](https://www.summersinfinitecleaning.com/how-it-works/)
-- [Eco-friendly cleaning](https://www.summersinfinitecleaning.com/eco-friendly-cleaning/)
-- [Commercial Cleaning](https://www.summersinfinitecleaning.com/services/commercial-cleaning/)
-- [Service areas](https://www.summersinfinitecleaning.com/service-areas/)
-- [Questions](https://www.summersinfinitecleaning.com/frequently-asked-questions/)
+- **[How it works](https://www.summersinfinitecleaning.com/how-it-works/)**
+- **[Eco-friendly cleaning](https://www.summersinfinitecleaning.com/eco-friendly-cleaning/)**
+- **[Commercial Cleaning](https://www.summersinfinitecleaning.com/services/commercial-cleaning/)**
+- **[Service areas](https://www.summersinfinitecleaning.com/service-areas/)**
+- **[Questions](https://www.summersinfinitecleaning.com/frequently-asked-questions/)**
 
 ## Why Summers
 

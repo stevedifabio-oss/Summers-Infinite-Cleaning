@@ -64,11 +64,11 @@ Share the address, the number of bedrooms and the help you are after, and Summer
 
 ## Near Goodyear
 
-- [Avondale](https://www.summersinfinitecleaning.com/service-areas/avondale-az/)
-- [Litchfield Park](https://www.summersinfinitecleaning.com/service-areas/litchfield-park-az/)
-- [Buckeye](https://www.summersinfinitecleaning.com/service-areas/buckeye-az/)
-- [Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)
-- [All service areas](https://www.summersinfinitecleaning.com/service-areas/)
+- **[Avondale](https://www.summersinfinitecleaning.com/service-areas/avondale-az/)**
+- **[Litchfield Park](https://www.summersinfinitecleaning.com/service-areas/litchfield-park-az/)**
+- **[Buckeye](https://www.summersinfinitecleaning.com/service-areas/buckeye-az/)**
+- **[Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)**
+- **[All service areas](https://www.summersinfinitecleaning.com/service-areas/)**
 
 ## Cleaning in Goodyear.
 

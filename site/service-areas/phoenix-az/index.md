@@ -68,13 +68,13 @@ Whether it is the house you live in or a rental between tenants, tell us the add
 
 ## Phoenix neighbors we also serve
 
-- [Glendale](https://www.summersinfinitecleaning.com/service-areas/glendale-az/)
-- [Tolleson](https://www.summersinfinitecleaning.com/service-areas/tolleson-az/)
-- [Paradise Valley](https://www.summersinfinitecleaning.com/service-areas/paradise-valley-az/)
-- [Scottsdale](https://www.summersinfinitecleaning.com/service-areas/scottsdale-az/)
-- [Peoria](https://www.summersinfinitecleaning.com/service-areas/peoria-az/)
-- [Anthem](https://www.summersinfinitecleaning.com/service-areas/anthem-az/)
-- [All service areas](https://www.summersinfinitecleaning.com/service-areas/)
+- **[Glendale](https://www.summersinfinitecleaning.com/service-areas/glendale-az/)**
+- **[Tolleson](https://www.summersinfinitecleaning.com/service-areas/tolleson-az/)**
+- **[Paradise Valley](https://www.summersinfinitecleaning.com/service-areas/paradise-valley-az/)**
+- **[Scottsdale](https://www.summersinfinitecleaning.com/service-areas/scottsdale-az/)**
+- **[Peoria](https://www.summersinfinitecleaning.com/service-areas/peoria-az/)**
+- **[Anthem](https://www.summersinfinitecleaning.com/service-areas/anthem-az/)**
+- **[All service areas](https://www.summersinfinitecleaning.com/service-areas/)**
 
 ## Cleaning in Phoenix.
 

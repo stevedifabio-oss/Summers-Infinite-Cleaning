@@ -50,11 +50,11 @@ The hard-water guide has a row for each of the 16 towns Summers serves, each fro
 
 ## The cleans behind the guides
 
-- [Move-In / Move-Out Cleaning](https://www.summersinfinitecleaning.com/services/move-in-move-out-cleaning/)
-- [Deep Cleaning](https://www.summersinfinitecleaning.com/services/deep-cleaning/)
-- [Recurring House Cleaning](https://www.summersinfinitecleaning.com/services/recurring-house-cleaning/)
-- [Commercial Cleaning](https://www.summersinfinitecleaning.com/services/commercial-cleaning/)
-- [All services](https://www.summersinfinitecleaning.com/services/)
+- **[Move-In / Move-Out Cleaning](https://www.summersinfinitecleaning.com/services/move-in-move-out-cleaning/)**
+- **[Deep Cleaning](https://www.summersinfinitecleaning.com/services/deep-cleaning/)**
+- **[Recurring House Cleaning](https://www.summersinfinitecleaning.com/services/recurring-house-cleaning/)**
+- **[Commercial Cleaning](https://www.summersinfinitecleaning.com/services/commercial-cleaning/)**
+- **[All services](https://www.summersinfinitecleaning.com/services/)**
 
 ## Why Summers
 

@@ -77,12 +77,12 @@ Yes. Deep Cleaning goes further than the regular clean and removes hard-water sp
 
 ## More for hosts
 
-- [Deep cleaning in Scottsdale](https://www.summersinfinitecleaning.com/services/deep-cleaning/scottsdale-az/)
-- [Scottsdale](https://www.summersinfinitecleaning.com/service-areas/scottsdale-az/)
-- [Paradise Valley](https://www.summersinfinitecleaning.com/service-areas/paradise-valley-az/)
-- [Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)
-- [Deep Cleaning](https://www.summersinfinitecleaning.com/services/deep-cleaning/)
-- [Rental turnovers for landlords](https://www.summersinfinitecleaning.com/property-managers/)
+- **[Deep cleaning in Scottsdale](https://www.summersinfinitecleaning.com/services/deep-cleaning/scottsdale-az/)**
+- **[Scottsdale](https://www.summersinfinitecleaning.com/service-areas/scottsdale-az/)**
+- **[Paradise Valley](https://www.summersinfinitecleaning.com/service-areas/paradise-valley-az/)**
+- **[Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)**
+- **[Deep Cleaning](https://www.summersinfinitecleaning.com/services/deep-cleaning/)**
+- **[Rental turnovers for landlords](https://www.summersinfinitecleaning.com/property-managers/)**
 
 ## Why Summers
 

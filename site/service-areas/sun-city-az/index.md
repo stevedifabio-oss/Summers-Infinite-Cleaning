@@ -68,11 +68,11 @@ Tell us the street, the bedrooms and baths, and when you would like the first vi
 
 ## Next to Sun City
 
-- [Sun City West](https://www.summersinfinitecleaning.com/service-areas/sun-city-west-az/)
-- [Peoria](https://www.summersinfinitecleaning.com/service-areas/peoria-az/)
-- [El Mirage](https://www.summersinfinitecleaning.com/service-areas/el-mirage-az/)
-- [Surprise](https://www.summersinfinitecleaning.com/service-areas/surprise-az/)
-- [All service areas](https://www.summersinfinitecleaning.com/service-areas/)
+- **[Sun City West](https://www.summersinfinitecleaning.com/service-areas/sun-city-west-az/)**
+- **[Peoria](https://www.summersinfinitecleaning.com/service-areas/peoria-az/)**
+- **[El Mirage](https://www.summersinfinitecleaning.com/service-areas/el-mirage-az/)**
+- **[Surprise](https://www.summersinfinitecleaning.com/service-areas/surprise-az/)**
+- **[All service areas](https://www.summersinfinitecleaning.com/service-areas/)**
 
 ## Cleaning in Sun City.
 

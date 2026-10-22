@@ -68,11 +68,11 @@ Send the address, the bedroom count and any room that needs extra attention. Exp
 
 ## Youngtown's neighbors
 
-- [Sun City](https://www.summersinfinitecleaning.com/service-areas/sun-city-az/)
-- [El Mirage](https://www.summersinfinitecleaning.com/service-areas/el-mirage-az/)
-- [Peoria](https://www.summersinfinitecleaning.com/service-areas/peoria-az/)
-- [Surprise](https://www.summersinfinitecleaning.com/service-areas/surprise-az/)
-- [All service areas](https://www.summersinfinitecleaning.com/service-areas/)
+- **[Sun City](https://www.summersinfinitecleaning.com/service-areas/sun-city-az/)**
+- **[El Mirage](https://www.summersinfinitecleaning.com/service-areas/el-mirage-az/)**
+- **[Peoria](https://www.summersinfinitecleaning.com/service-areas/peoria-az/)**
+- **[Surprise](https://www.summersinfinitecleaning.com/service-areas/surprise-az/)**
+- **[All service areas](https://www.summersinfinitecleaning.com/service-areas/)**
 
 ## Cleaning in Youngtown.
 

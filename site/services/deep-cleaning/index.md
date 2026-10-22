@@ -56,23 +56,23 @@ Just need the everyday clean? House Cleaning covers kitchens, bathrooms, bedroom
 
 ## Deep cleaning in your city
 
-- [Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)
-- [Glendale](https://www.summersinfinitecleaning.com/service-areas/glendale-az/)
-- [Peoria](https://www.summersinfinitecleaning.com/service-areas/peoria-az/)
-- [Surprise](https://www.summersinfinitecleaning.com/service-areas/surprise-az/)
-- [Buckeye](https://www.summersinfinitecleaning.com/service-areas/buckeye-az/)
-- [Avondale](https://www.summersinfinitecleaning.com/service-areas/avondale-az/)
-- [Goodyear](https://www.summersinfinitecleaning.com/service-areas/goodyear-az/)
-- [El Mirage](https://www.summersinfinitecleaning.com/service-areas/el-mirage-az/)
-- [Scottsdale](https://www.summersinfinitecleaning.com/services/deep-cleaning/scottsdale-az/)
-- [Paradise Valley](https://www.summersinfinitecleaning.com/service-areas/paradise-valley-az/)
-- [All service areas](https://www.summersinfinitecleaning.com/service-areas/)
+- **[Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)**
+- **[Glendale](https://www.summersinfinitecleaning.com/service-areas/glendale-az/)**
+- **[Peoria](https://www.summersinfinitecleaning.com/service-areas/peoria-az/)**
+- **[Surprise](https://www.summersinfinitecleaning.com/service-areas/surprise-az/)**
+- **[Buckeye](https://www.summersinfinitecleaning.com/service-areas/buckeye-az/)**
+- **[Avondale](https://www.summersinfinitecleaning.com/service-areas/avondale-az/)**
+- **[Goodyear](https://www.summersinfinitecleaning.com/service-areas/goodyear-az/)**
+- **[El Mirage](https://www.summersinfinitecleaning.com/service-areas/el-mirage-az/)**
+- **[Scottsdale](https://www.summersinfinitecleaning.com/services/deep-cleaning/scottsdale-az/)**
+- **[Paradise Valley](https://www.summersinfinitecleaning.com/service-areas/paradise-valley-az/)**
+- **[All service areas](https://www.summersinfinitecleaning.com/service-areas/)**
 
 ## Before you book a deep clean
 
-- [What each clean includes](https://www.summersinfinitecleaning.com/services/whats-included/)
-- [Hard water by city](https://www.summersinfinitecleaning.com/guides/phoenix-area-hard-water/)
-- [Cleaning before you sell](https://www.summersinfinitecleaning.com/guides/cleaning-before-selling-a-house/)
+- **[What each clean includes](https://www.summersinfinitecleaning.com/services/whats-included/)**
+- **[Hard water by city](https://www.summersinfinitecleaning.com/guides/phoenix-area-hard-water/)**
+- **[Cleaning before you sell](https://www.summersinfinitecleaning.com/guides/cleaning-before-selling-a-house/)**
 
 ## Questions About Deep Cleaning.
 

@@ -68,11 +68,11 @@ Share the address, the bedroom count and how often you would like a visit. Summe
 
 ## Around Sun City West
 
-- [Sun City](https://www.summersinfinitecleaning.com/service-areas/sun-city-az/)
-- [Surprise](https://www.summersinfinitecleaning.com/service-areas/surprise-az/)
-- [El Mirage](https://www.summersinfinitecleaning.com/service-areas/el-mirage-az/)
-- [Peoria](https://www.summersinfinitecleaning.com/service-areas/peoria-az/)
-- [All service areas](https://www.summersinfinitecleaning.com/service-areas/)
+- **[Sun City](https://www.summersinfinitecleaning.com/service-areas/sun-city-az/)**
+- **[Surprise](https://www.summersinfinitecleaning.com/service-areas/surprise-az/)**
+- **[El Mirage](https://www.summersinfinitecleaning.com/service-areas/el-mirage-az/)**
+- **[Peoria](https://www.summersinfinitecleaning.com/service-areas/peoria-az/)**
+- **[All service areas](https://www.summersinfinitecleaning.com/service-areas/)**
 
 ## Cleaning in Sun City West.
 

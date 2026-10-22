@@ -70,10 +70,10 @@ Yes. Summers cleans homes, from regular house cleaning to deep and move-out clea
 
 ## Read next
 
-- [Commercial Cleaning](https://www.summersinfinitecleaning.com/services/commercial-cleaning/)
-- [House Cleaning](https://www.summersinfinitecleaning.com/services/house-cleaning/)
-- [Why Arizona homes get dusty](https://www.summersinfinitecleaning.com/guides/arizona-house-dust/)
-- [All guides](https://www.summersinfinitecleaning.com/guides/)
+- **[Commercial Cleaning](https://www.summersinfinitecleaning.com/services/commercial-cleaning/)**
+- **[House Cleaning](https://www.summersinfinitecleaning.com/services/house-cleaning/)**
+- **[Why Arizona homes get dusty](https://www.summersinfinitecleaning.com/guides/arizona-house-dust/)**
+- **[All guides](https://www.summersinfinitecleaning.com/guides/)**
 
 ## Why Summers
 

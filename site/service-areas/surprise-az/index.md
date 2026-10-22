@@ -64,11 +64,11 @@ Tell us the street, how often you would like help and anything that needs extra 
 
 ## Around Surprise
 
-- [El Mirage](https://www.summersinfinitecleaning.com/service-areas/el-mirage-az/)
-- [Sun City West](https://www.summersinfinitecleaning.com/service-areas/sun-city-west-az/)
-- [Peoria](https://www.summersinfinitecleaning.com/service-areas/peoria-az/)
-- [Buckeye](https://www.summersinfinitecleaning.com/service-areas/buckeye-az/)
-- [All service areas](https://www.summersinfinitecleaning.com/service-areas/)
+- **[El Mirage](https://www.summersinfinitecleaning.com/service-areas/el-mirage-az/)**
+- **[Sun City West](https://www.summersinfinitecleaning.com/service-areas/sun-city-west-az/)**
+- **[Peoria](https://www.summersinfinitecleaning.com/service-areas/peoria-az/)**
+- **[Buckeye](https://www.summersinfinitecleaning.com/service-areas/buckeye-az/)**
+- **[All service areas](https://www.summersinfinitecleaning.com/service-areas/)**
 
 ## Cleaning in Surprise.
 

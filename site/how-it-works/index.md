@@ -70,11 +70,11 @@ Summers cleans Monday to Saturday, 7am to 5pm, with no cleaning on Sundays. You 
 
 ## Plan your clean
 
-- [What each clean includes](https://www.summersinfinitecleaning.com/services/whats-included/)
-- [Eco-friendly cleaning](https://www.summersinfinitecleaning.com/eco-friendly-cleaning/)
-- [All services](https://www.summersinfinitecleaning.com/services/)
-- [Service areas](https://www.summersinfinitecleaning.com/service-areas/)
-- [Contact us](https://www.summersinfinitecleaning.com/contact-us/)
+- **[What each clean includes](https://www.summersinfinitecleaning.com/services/whats-included/)**
+- **[Eco-friendly cleaning](https://www.summersinfinitecleaning.com/eco-friendly-cleaning/)**
+- **[All services](https://www.summersinfinitecleaning.com/services/)**
+- **[Service areas](https://www.summersinfinitecleaning.com/service-areas/)**
+- **[Contact us](https://www.summersinfinitecleaning.com/contact-us/)**
 
 ## Why Summers
 

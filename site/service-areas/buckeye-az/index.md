@@ -68,10 +68,10 @@ Whether the house is brand new or one you have lived in for years, send the addr
 
 ## East of Buckeye
 
-- [Goodyear](https://www.summersinfinitecleaning.com/service-areas/goodyear-az/)
-- [Avondale](https://www.summersinfinitecleaning.com/service-areas/avondale-az/)
-- [Surprise](https://www.summersinfinitecleaning.com/service-areas/surprise-az/)
-- [All service areas](https://www.summersinfinitecleaning.com/service-areas/)
+- **[Goodyear](https://www.summersinfinitecleaning.com/service-areas/goodyear-az/)**
+- **[Avondale](https://www.summersinfinitecleaning.com/service-areas/avondale-az/)**
+- **[Surprise](https://www.summersinfinitecleaning.com/service-areas/surprise-az/)**
+- **[All service areas](https://www.summersinfinitecleaning.com/service-areas/)**
 
 ## Cleaning in Buckeye.
 

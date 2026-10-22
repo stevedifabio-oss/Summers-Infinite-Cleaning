@@ -68,11 +68,11 @@ Give us the address, the date that matters and whether you rent, own or manage t
 
 ## Around Tolleson
 
-- [Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)
-- [Avondale](https://www.summersinfinitecleaning.com/service-areas/avondale-az/)
-- [Litchfield Park](https://www.summersinfinitecleaning.com/service-areas/litchfield-park-az/)
-- [Glendale](https://www.summersinfinitecleaning.com/service-areas/glendale-az/)
-- [All service areas](https://www.summersinfinitecleaning.com/service-areas/)
+- **[Phoenix](https://www.summersinfinitecleaning.com/service-areas/phoenix-az/)**
+- **[Avondale](https://www.summersinfinitecleaning.com/service-areas/avondale-az/)**
+- **[Litchfield Park](https://www.summersinfinitecleaning.com/service-areas/litchfield-park-az/)**
+- **[Glendale](https://www.summersinfinitecleaning.com/service-areas/glendale-az/)**
+- **[All service areas](https://www.summersinfinitecleaning.com/service-areas/)**
 
 ## Cleaning in Tolleson.
 
